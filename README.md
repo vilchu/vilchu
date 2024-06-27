@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vilchu
-- 👀 I’m interested in ... something
-- 🌱 I’m currently learning ... everything new
-- 📫 How to reach me ... vılchu#0005 on discord
+- 👀 I’m interested in ... trying to do BD theme from snippets
+- 🌱 I’m currently learning ... nothing
+- 📫 How to reach me ... vılchu on discord
 
 <!---
 vilchu/vilchu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
